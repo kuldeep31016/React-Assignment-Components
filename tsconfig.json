@@ -28,6 +28,6 @@
       "@/styles/*": ["./src/styles/*"]
     }
   },
-  "include": ["src", "vite.config.ts", ".storybook/**/*"],
+  "include": ["src", ".storybook/**/*"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
