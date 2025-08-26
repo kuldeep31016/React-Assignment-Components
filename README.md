@@ -7,9 +7,14 @@ A modern React application built with TypeScript, Vite, TailwindCSS, and a compr
 
 ## 📸 Screenshots
 
-| InputField Component | DataTable Component |
-|----------------------|----------------------|
-| ![InputField](./screenshots/img1.png) | ![Form Integration](./screenshots/img2.png) | ![DataTable](./screenshots/img3.png) | ![Resonsive Demo](./screenshots/img4.png) |
+| InputField | Form Integration |
+|------------|------------------|
+| ![InputField](./screenshots/img1.png) | ![Form Integration](./screenshots/img2.png) |
+
+| DataTable | Responsive Demo |
+|-----------|-----------------|
+| ![DataTable](./screenshots/img3.png) | ![Responsive Demo](./screenshots/img4.png) |
+
 
 ## 🚀 Features
 
