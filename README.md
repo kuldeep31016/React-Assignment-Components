@@ -1,6 +1,9 @@
 # React TypeScript + Vite Project
 
 A modern React application built with TypeScript, Vite, TailwindCSS, and a comprehensive development toolchain.
+## 🎥 Demo Video
+
+- 🎬 [Watch Demo on YouTube](https://www.youtube.com/watch?v=zEnZ3vSzqGU)
 
 ## 🚀 Features
 
