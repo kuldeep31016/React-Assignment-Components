@@ -5,6 +5,12 @@ A modern React application built with TypeScript, Vite, TailwindCSS, and a compr
 
 - 🎬 [Watch Demo on YouTube](https://www.youtube.com/watch?v=zEnZ3vSzqGU)
 
+## 📸 Screenshots
+
+| InputField Component | DataTable Component |
+|----------------------|----------------------|
+| ![InputField](./screenshots/img1.png) | ![Form Integration](./screenshots/img2.png) | ![DataTable](./screenshots/img3.png) | ![Resonsive Demo](./screenshots/img4.png) |
+
 ## 🚀 Features
 
 - **React 18** with TypeScript 5
